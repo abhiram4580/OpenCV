@@ -1,2 +1,2 @@
-blank=np.zeros(img.shape[:2],dtype='uint8')
-# cv.imshow('Blank Image',blank)
+cv.imshow('Soble X',sobx)
+# cv.imshow('Sobel Y',soby)
